@@ -1,0 +1,17 @@
+.a{
+  background-color: orange;
+  border: solid 1px;
+}
+h1 {
+  background-color: skyblue;
+  border: solid 1px;
+  margin: 5px;
+}
+
+p
+{
+  border: solid 1px;
+  padding: 5px;
+  background-color: wheat;
+  margin: 5px;
+}
