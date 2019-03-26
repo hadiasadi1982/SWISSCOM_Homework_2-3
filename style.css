@@ -1,0 +1,12 @@
+.btn {
+    color: black;
+    background-color: rgb(202, 198, 190);
+    width: 120px;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    float: left;
+ }
+ .mybtn {
+    background-color: rgb(112, 112, 112);
+ }
